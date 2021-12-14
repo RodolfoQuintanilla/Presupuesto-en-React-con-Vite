@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-circular-progressbar": "^2.0.4",
+    "react-swipeable-list": "^1.4.0"
+  }
+}
